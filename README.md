@@ -1,6 +1,5 @@
 # BachelorsProject
-Bachelor's degree final scientific project.
-/////////////////////////////////////////
+Bachelor's degree final scientific project:
 The operation of a sequential electrochemical microscope is described using partial differential equations to model diffusion processes. 
 Since there is no analytical solution to these equations, we approximate them to the equations of numerical methods.
 Achieving an accurate result requires a lot of calculations that can take a long time, so it makes sense to look for ways to speed up the calculations.
